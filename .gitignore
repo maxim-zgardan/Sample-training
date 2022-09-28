@@ -1,0 +1,34 @@
+# eclipse
+.classpath
+.project
+.settings
+._editorconfig
+# sts
+.springBeans
+# Mac
+.DS_Store
+# Maven
+target/
+release.properties
+*.versionsBackup
+*.releaseBackup
+# Idea
+*.iml
+.idea/
+# npm
+node_modules/
+npm-debug.log
+# bower
+bower_components/
+# other
+*.swp
+*.bak
+#file VS
+*.njsproj
+*.suo
+*.sln
+*.dat
+*.cache
+
+.tmp
+/dist/
